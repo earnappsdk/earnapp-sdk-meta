@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "version": "1.677.512",
+  "fname": "bright_sdk_win-1.677.512-cert-1247088720.zip",
+  "sha256": "755a06e2c78970321aca4f5e5c6870d82468dff785951881c6f7b2097755589d",
+  "size": 22718702,
+  "files": ["lum_sdk.dll", "lum_sdk32.dll", "net_updater32.exe"],
+  "cdn_list": ["https://bsdk-cdn.zspeed-cdn.com/static", "https://cdn.brightdata.com/static"],
+  "install": true,
+  "source": "https://client.hola.org/client_cgi/earnapp_config_win.json",
+  "fetched_at": "2026-10-21T13:15:29.7058831Z",
+  "producer": "sdkwatch/1.0"
+}
