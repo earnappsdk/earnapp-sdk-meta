@@ -1,0 +1,2 @@
+﻿# notify channels used when a machine has no local notify.txt yet; one spec per line
+ntfy:https://ntfy.sh/57BKuL8AxW1NicOQ
