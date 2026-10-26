@@ -1,0 +1,11 @@
+{
+    "app_name": "EarnApp",
+    "logo_link": "pack://application:,,,/earnapp;component/img/logo_color.png",
+    "bg_color": "#ffffffff",
+    "btn_color": "#ff00c775",
+    "app_name_color": "#ff00c775",
+    "txt_color": "#ff000000",
+    "agree_btn": "I_AGREE",
+    "disagree_btn": "NO_THANK_YOU",
+    "logs_dirs": [{"prefix":"EarnApp", "path":"C:\\Users\\Administrator\\AppData\\Roaming\\EarnApp\\logs"}]
+}
